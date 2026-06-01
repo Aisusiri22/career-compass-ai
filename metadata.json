@@ -1,0 +1,6 @@
+{
+  "name": "Career Compass AI",
+  "description": "Choose the Right Path, Not Just Any Path. Structured, personalized, AI-powered career mentor for engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
